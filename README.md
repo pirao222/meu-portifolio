@@ -2,14 +2,14 @@
 
 Repositório centralizado desenvolvido com o objetivo de compor um perfil profissional robusto, organizando projetos acadêmicos e pessoais em um único lugar. Este projeto aplica as melhores práticas de versionamento com Git e integração com plataformas profissionais.
 
-🔗 **Acesse o meu Portfólio Web:** [Insira aqui o link gerado pelo GitHub Pages]
-💼 **Meu Perfil no LinkedIn:** [Insira aqui o link do seu perfil do LinkedIn]
+🔗 **Acesse o meu Portfólio Web:** https://pirao222.github.io/meu-portifolio/
+💼 **Meu Perfil no LinkedIn:** https://www.linkedin.com/in/gabriel-pires-b10534403/
 📺 **Vídeo de Apresentação (YouTube):** [Insira aqui o link do seu vídeo de 5 minutos]
 
 ---
 
 ## 📌 Sobre Mim
-[Escreva um parágrafo curto e objetivo sobre você. Exemplo: "Olá! Sou estudante de [Seu Curso] e este repositório reúne os principais projetos que desenvolvi ao longo da minha jornada acadêmica e em estudos autônomos, focando em tecnologias como HTML, CSS, JavaScript, etc."]
+Estudante de Ciências da Computação no UniCeub, apaixonado por tecnologia e em constante evolução. Buscando minha primeira experiência profissional na área de TI. 
 
 ---
 
@@ -47,12 +47,7 @@ Como marco inicial deste repositório, foi desenvolvida e versionada uma página
 
 ---
 
-## 📄 Código de Ética
-O desenvolvimento deste portfólio e a realização das atividades contidas nele seguem rigorosamente as diretrizes estabelecidas no **Código de Ética da EaD**.
-
----
-
 ## 👤 Autor
 
-* **Seu Nome** - [@seu-usuario-do-github](https://github.com/seu-usuario-do-github)
+* **Seu Nome** - pirao222(https://github.com/pirao222)
 * Sinta-se à vontade para entrar em contato ou se conectar comigo no LinkedIn!
