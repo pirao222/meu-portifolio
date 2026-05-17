@@ -3,7 +3,9 @@
 Repositório centralizado desenvolvido com o objetivo de compor um perfil profissional robusto, organizando projetos acadêmicos e pessoais em um único lugar. Este projeto aplica as melhores práticas de versionamento com Git e integração com plataformas profissionais.
 
 🔗 **Acesse o meu Portfólio Web:** https://pirao222.github.io/meu-portifolio/
+
 💼 **Meu Perfil no LinkedIn:** https://www.linkedin.com/in/gabriel-pires-b10534403/
+
 📺 **Vídeo de Apresentação (YouTube):** [Insira aqui o link do seu vídeo de 5 minutos]
 
 ---
