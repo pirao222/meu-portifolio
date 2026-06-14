@@ -1,0 +1,16 @@
+# Arquivos de credenciais e segurança (CRUCIAL para o desafio)
+.env
+.env.local
+*.pem
+*.key
+
+# Pastas de dependências (que não precisam subir para o GitHub)
+node_modules/
+dist/
+build/
+
+# Arquivos do sistema operacional ou do editor
+.DS_Store
+.vscode/
+.idea/
+npm-debug.log*
