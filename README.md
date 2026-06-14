@@ -6,7 +6,6 @@ Repositório centralizado desenvolvido com o objetivo de compor um perfil profis
 
 💼 **Meu Perfil no LinkedIn:** https://www.linkedin.com/in/gabriel-pires-b10534403/
 
-📺 **Vídeo de Apresentação (YouTube):** [Insira aqui o link do seu vídeo de 5 minutos]
 
 ---
 
